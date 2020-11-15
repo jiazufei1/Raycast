@@ -6,3 +6,8 @@
 * https://blog.csdn.net/Philm_iOS/article/details/81664556
 * https://github.com/Cesaradu/AudioSpectrumDemo
 * swift版：https://github.com/potato04/AudioSpectrum
+
+
+stream
+https://github.com/syedhali/AudioStreamer
+https://github.com/tanhakabir/SwiftAudioPlayer
