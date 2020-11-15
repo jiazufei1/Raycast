@@ -8,6 +8,6 @@
 * swift版：https://github.com/potato04/AudioSpectrum
 
 
-stream
-https://github.com/syedhali/AudioStreamer
-https://github.com/tanhakabir/SwiftAudioPlayer
+* stream
+* https://github.com/syedhali/AudioStreamer
+* https://github.com/tanhakabir/SwiftAudioPlayer
