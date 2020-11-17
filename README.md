@@ -25,7 +25,8 @@
 * 8、https://player.vimeo.com/external/188421287.sd.mp4?s=bdbf8a61c40502211971571fef384f52fe79dbbe&profile_id=164
 
 ## 音频
-* 9、http://www.170mv.com/kw/antiserver.kuwo.cn/anti.s?rid=MUSIC_93477122&response=res&format=mp3|aac&type=convert_url&br=128kmp3&agent=iPhone&callback=getlink&jpcallback=getlink.mp3
-* 10、http://www.170mv.com/kw/antiserver.kuwo.cn/anti.s?rid=MUSIC_90991360&response=res&format=mp3|aac&type=convert_url&br=128kmp3&agent=iPhone&callback=getlink&jpcallback=getlink.mp3
-* 11、http://www.170mv.com/kw/antiserver.kuwo.cn/anti.s?rid=MUSIC_96145895&response=res&format=mp3|aac&type=convert_url&br=128kmp3&agent=iPhone&callback=getlink&jpcallback=getlink.mp3
-* 12、http://www.170mv.com/kw/antiserver.kuwo.cn/anti.s?rid=MUSIC_140162434&response=res&format=mp3|aac&type=convert_url&br=128kmp3&agent=iPhone&callback=getlink&jpcallback=getlink.mp3
+
+* http://em.sycdn.kuwo.cn/fc09ff95bba71779f2f8ac2e2f91411c/5fb32fb7/resource/n3/30/66/2205407643.mp3
+* http://ek.sycdn.kuwo.cn/6808c010d55ac286846b96ea16ee8230/5fb32fd7/resource/n2/40/88/2837616340.mp3
+* http://eo.sycdn.kuwo.cn/a7b7249bc450eeb26b240dbab7eeaa07/5fb32ff7/resource/n2/69/40/2222325263.mp3
+* http://ep.sycdn.kuwo.cn/6978eb791529be30cdc935ccfa5a93c7/5fb33005/resource/n1/13/34/1474260193.mp3
