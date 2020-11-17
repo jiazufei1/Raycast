@@ -12,6 +12,9 @@
 * https://github.com/syedhali/AudioStreamer
 * https://github.com/tanhakabir/SwiftAudioPlayer
 
+## 节拍器实现
+https://github.com/AlexShubin/MetronomeIdea
+
 # 测试地址
 
 ## 视频
